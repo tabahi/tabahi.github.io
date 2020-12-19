@@ -1,9 +1,11 @@
 <webalbum version="1.8.2">
   <title>2 2's Album</title>
+  <description>
+    <line>A snapshot of the last 10 years of my life</line>
+  </description>
   <settings>
     <photosize width="800" height="600">large</photosize>
     <thumbsize width="200" height="150">custom</thumbsize>
-    <homeurl>https://tabahi.github.io</homeurl>
     <outputdirectory>C:\Users\alabd\Documents\Arduino\Tabahi\tabahi.github.io\assets\sAlbum\</outputdirectory>
     <navigateinloop>False</navigateinloop>
   </settings>
@@ -39,7 +41,7 @@
       <filename>C:\Users\alabd\Downloads\pics\album\2019-11-22.jpg</filename>
     </photo>
     <photo>
-      <title>Western Chinese Cusine, Summer 2019</title>
+      <title>Tibeten Cusine, Summer 2019</title>
       <filename>C:\Users\alabd\Downloads\pics\album\IMG_20190809_190405.jpg</filename>
     </photo>
     <photo>
@@ -47,12 +49,32 @@
       <filename>C:\Users\alabd\Downloads\pics\album\IMG_20190809_190025.jpg</filename>
     </photo>
     <photo>
-      <title>CUG Spring 2019</title>
+      <title>Blue moon valley, summer 2019</title>
+      <filename>C:\Users\alabd\Downloads\pics\album\IMG_20190807_091655.jpg</filename>
+    </photo>
+    <photo>
+      <title>CUG Summer 2019</title>
       <filename>C:\Users\alabd\Downloads\pics\album\2019-06-05.jpg</filename>
+    </photo>
+    <photo>
+      <title>Li River Cruise, Spring 2019</title>
+      <filename>C:\Users\alabd\Downloads\pics\album\781620419473785840.jpg</filename>
+    </photo>
+    <photo>
+      <title>Guilin Caves, Spring 2019</title>
+      <filename>C:\Users\alabd\Downloads\pics\album\97660237908956132.jpg</filename>
     </photo>
     <photo>
       <title>Calligraphy Spring 2019</title>
       <filename>C:\Users\alabd\Downloads\pics\album\2018-10-04.jpg</filename>
+    </photo>
+    <photo>
+      <title>Chilling at Wuhan Botanical Garden, Spring 2019</title>
+      <filename>C:\Users\alabd\Downloads\pics\album\IMG_20180407_141628.jpg</filename>
+    </photo>
+    <photo>
+      <title>My yearly research to-do list, Winter 2019</title>
+      <filename>C:\Users\alabd\Downloads\pics\album\IMG_20190108_164200.jpg</filename>
     </photo>
     <photo>
       <title>East lake, Winter 2018</title>
@@ -112,11 +134,24 @@
       <filename>C:\Users\alabd\Downloads\pics\album\2018-09-08.jpg</filename>
     </photo>
     <photo>
+      <title>The art of making tea</title>
+      <caption>
+        <line>The aesthetics are more important than the taste.</line>
+      </caption>
+      <filename>mmexport1526912171410.jpg</filename>
+    </photo>
+    <photo>
       <title>Chilling with the statue of LaoTzu, Spring 2018</title>
+      <caption>
+        <line>At "the home of the Chinese nostalgia". That's the literal translation of the name of this place.</line>
+      </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\2018-05-21.jpg</filename>
     </photo>
     <photo>
       <title>East lake bicycling, Spring 2018</title>
+      <caption>
+        <line>Our campus is by this beautiful lake. It's probably the most beautiful spot in Wuhan.</line>
+      </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\2018-04-10.jpg</filename>
     </photo>
     <photo>
@@ -141,10 +176,16 @@
     </photo>
     <photo>
       <title>Mulan Mountain, Winter 2018</title>
+      <caption>
+        <line>Mulan mountain has a small temple on it's top, but nothing much else to see in this fog</line>
+      </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\IMG_20180118_122849.jpg</filename>
     </photo>
     <photo>
       <title>Hubei Museum, Fall 2017</title>
+      <caption>
+        <line>Hubei museum have some of the oldest artifcats.</line>
+      </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\2017-12-21.jpg</filename>
     </photo>
     <photo>
@@ -153,6 +194,9 @@
     </photo>
     <photo>
       <title>Yellow crane tower</title>
+      <caption>
+        <line>This is the central landmark of Wuhan</line>
+      </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\2017-11-25.jpg</filename>
     </photo>
     <photo>
@@ -179,11 +223,14 @@
       <filename>C:\Users\alabd\Downloads\pics\album\2016-06-23.jpg</filename>
     </photo>
     <photo>
-      <title>My Class, 2015</title>
-      <filename>C:\Users\alabd\Downloads\pics\album\2016-05-08.jpg</filename>
+      <title>Scram time, 2016</title>
+      <filename>C:\Users\alabd\Downloads\pics\album\14876390_10209109884882273_1668498284_o_10209109884882273.jpg</filename>
     </photo>
     <photo>
       <title>My Class, 2014</title>
+      <caption>
+        <line>Me in white, upper left corner</line>
+      </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\2014-06-02.jpg</filename>
     </photo>
     <photo>
@@ -201,7 +248,7 @@
     <photo>
       <title>Me at Lahore city radio, Summer 2013</title>
       <caption>
-        <line>OLYMPUS DIGITAL CAMERA</line>
+        <line>Lahore radio invited our class to a show to talk about science, which I don't know anything about</line>
       </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\2013-04-11.jpg</filename>
     </photo>
@@ -216,7 +263,7 @@
     <photo>
       <title>Lower Himalayas, Fall 2012</title>
       <caption>
-        <line>SAMSUNG</line>
+        <line>This place has no name, but the area has general directional names, upper, lower, east, west, more west, more up, little down</line>
       </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\2012-09-29.jpg</filename>
     </photo>
@@ -230,23 +277,40 @@
     </photo>
     <photo>
       <title>Margalla Hills, 2011</title>
-      <filename>C:\Users\alabd\Downloads\pics\album\10931590_10204436171882369_8641519674228413182_o.jpg</filename>
+      <filename>C:\Users\alabd\Downloads\pics\album\10912552_10204385696940527_1043094824_o_10204385696940527.jpg</filename>
     </photo>
     <photo>
       <title>Kashmir, Fall 2011</title>
       <filename>C:\Users\alabd\Downloads\pics\album\2011-10-05.jpg</filename>
     </photo>
     <photo>
+      <title>Margalla Hills, 2010</title>
+      <filename>C:\Users\alabd\Downloads\pics\album\10931590_10204436171882369_8641519674228413182_o.jpg</filename>
+    </photo>
+    <photo>
       <title>19th Birthday, Nilore, 2010</title>
+      <caption>
+        <line>First time I ever cut a cake properly</line>
+      </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\Image1526 (2).jpg</filename>
     </photo>
     <photo>
       <title>Aab-e-gum, translation: Land of lost water, 2010</title>
+      <caption>
+        <line>The only source of water here is a railway tanker</line>
+      </caption>
       <filename>C:\Users\alabd\Downloads\pics\album\62338_1461431173783_2566470_n.jpg</filename>
     </photo>
     <photo>
       <title>Hole in the cloud, Quetta, 2007</title>
       <filename>C:\Users\alabd\Downloads\pics\album\2007-06-28.jpg</filename>
+    </photo>
+    <photo>
+      <title>Cat at home, 2007</title>
+      <caption>
+        <line>Dead</line>
+      </caption>
+      <filename>C:\Users\alabd\Downloads\pics\album\20133429_10211562626119271_1598687594_o_10211562626119271.jpg</filename>
     </photo>
   </photographs>
 </webalbum>
