@@ -1,11 +1,12 @@
 <webalbum version="1.8.2">
-  <title>2 2's Album</title>
+  <title>My Album</title>
   <description>
     <line>A snapshot of the last 10 years of my life</line>
   </description>
   <settings>
     <photosize width="800" height="600">large</photosize>
     <thumbsize width="200" height="150">custom</thumbsize>
+    <homeurl>https://tabahi.github.io</homeurl>
     <outputdirectory>C:\Users\alabd\Documents\Arduino\Tabahi\tabahi.github.io\assets\sAlbum\</outputdirectory>
     <navigateinloop>False</navigateinloop>
   </settings>

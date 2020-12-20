@@ -3,14 +3,14 @@ layout: page
 title: Abdul Rehman
 ---
 
-# About: Abdul Rehman, 22
+# About: Abdul Rehman, 2 2
 
 Welcome to my page.
 
  <table>
   <tr>
     <td>
-    I am a master's student at the School of Automation, China University of Geosciences, Wuhan, China. My core interests are cognitive computing, HCI/HRI, robotics, abstraction, and randomization. My skills range widely from Python/JS/C# to digital and analog electronics, as I have mostly worked on IoT projects from top to bottom.
+    I am a master's student at the School of Automation, China University of Geosciences, Wuhan, China. My core interests are cognitive computing, HRI/HCI, robotics, abstraction, and randomization. My skills range widely from Python to analog electronics, as I have mostly worked on IoT projects from top to bottom. Currently, I am interested in creating AI algorithms that can sustain themselves in the long run, i.e., adaptive control in the human world.
     </td>
     <td><img src="./assets/about/DSC_3494a.jpg" alt="Photo" width="900"/> </td>
   </tr>
@@ -71,29 +71,30 @@ _Sep 2017 - July 2018_
 
 # [<span style="color:#cccccc">Work</span>](#work)
 
-My 2+ years work experience and 10 major projects are listed in [my CV](/assets/about/CV_abdul_rehman.pdf).
+* My 2+ years work experience and 10 major projects  (mostly IoT & Tanks) are listed in [my CV](/assets/about/CV_abdul_rehman.pdf).
+* I am currently proficient in Python, Cpp, JS, C#, and Java... in that order.
+* See my freelance portfolio and reviews at [PPH](https://pph.me/tabahi), and my open sourced codes at [GitHub](https://github.com/tabahi).
 
 
 
 
 ### Certs:
-* [TOEFL, 2020](/assets/about/TOEFEL_Nov2020_Redacted.pdf)
-* [HSK-IV, 2018](/assets/about/HSK_Report_2018.jpg)
+* US-EN, [TOEFL, 2020](/assets/about/TOEFEL_Nov2020_Redacted.pdf)
+* CN-ZH, [HSK-IV, 2018](/assets/about/HSK_Report_2018.jpg)
 
 ### Awards:
 * [Postgraduate Research, 2nd @ School, 2020](/assets/about/Academic_2nd_Award.jpg)
 * [Internet+, Bronze @ China National, 2019](/assets/about/Internet_plus_award_2019.pdf)
-* [Editor, Student Magazine, 2013-2014](http://old.pieas.edu.pk/magazine/dareecha/)
+* [Editor, PIEAS Student Magazine, 2013-2014](http://old.pieas.edu.pk/magazine/dareecha/)
 
 ### Memberships:
 
-* IEEE, IEEE-SMC, Chinese Association for Artificial Intelligence, Pakistan Engineering Commission
+* IEEE, IEEE-SMC, Chinese Association for Artificial Intelligence, Pakistan Engineering Commission, WWF-Pakistan
 
 ### Non-academic interests:
 
 * Archeology, cosmology, classical music, Time, rhythms and patterns in general.
-* Literary: Realism, Dostoevsky, Russian lit, non-fiction.
-* Causes: WWF-Pakistan
+* Literary: Realism, Dostoevsky, Non-fiction.
 
 
 ![](https://02ip.ru/166Uh7.png)
@@ -102,7 +103,7 @@ My 2+ years work experience and 10 major projects are listed in [my CV](/assets/
 # [<span style="color:#cccccc">Contact</span>](#contact)
 
 * Email: abdulrehman [*a*] ieee . org, alabdulrehman [*a*] hotmail . fr
-* Currently in Wuhan (GMT+8), Domicile in [Quetta](https://en.wikipedia.org/wiki/Quetta)
+* Currently in [Wuhan](https://en.wikipedia.org/wiki/Wuhan) (GMT+8), Domicile in [Quetta](https://en.wikipedia.org/wiki/Quetta)
 
 
 ## Links
