@@ -73,14 +73,14 @@ _Sep 2017 - July 2018_
 
 * My 2+ years work experience and 10 major projects  (mostly IoT & Tanks) are listed in [my CV](/assets/about/CV_abdul_rehman.pdf).
 * I am currently proficient in Python, Cpp, JS, C#, and Java... in that order.
-* See my freelance portfolio and reviews at [PPH](https://pph.me/tabahi), and my open sourced codes at [GitHub](https://github.com/tabahi).
+* See my freelance portfolio and reviews at [PPH](https://pph.me/tabahi), and my open source codes at [GitHub](https://github.com/tabahi).
 
 
 
 
 ### Certs:
-* US-EN, [TOEFL, 2020](/assets/about/TOEFEL_Nov2020_Redacted.pdf)
-* CN-ZH, [HSK-IV, 2018](/assets/about/HSK_Report_2018.jpg)
+* English, [TOEFL, 2020](/assets/about/TOEFEL_Nov2020_Redacted.pdf)
+* Mandarin, [HSK-IV, 2018](/assets/about/HSK_Report_2018.jpg)
 
 ### Awards:
 * [Postgraduate Research, 2nd @ School, 2020](/assets/about/Academic_2nd_Award.jpg)
@@ -103,7 +103,7 @@ _Sep 2017 - July 2018_
 # [<span style="color:#cccccc">Contact</span>](#contact)
 
 * Email: abdulrehman [*a*] ieee . org, alabdulrehman [*a*] hotmail . fr
-* Currently in [Wuhan](https://en.wikipedia.org/wiki/Wuhan) (GMT+8), Domicile in [Quetta](https://en.wikipedia.org/wiki/Quetta)
+* Currently in [Wuhan](https://en.wikipedia.org/wiki/Wuhan) (UTC+8), Domicile in [Quetta](https://en.wikipedia.org/wiki/Quetta)
 
 
 ## Links
