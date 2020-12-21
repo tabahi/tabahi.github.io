@@ -10,7 +10,8 @@ Welcome to my page.
  <table>
   <tr>
     <td>
-    I am a master's student at the School of Automation, China University of Geosciences, Wuhan, China. My core interests are cognitive computing, HRI/HCI, robotics, abstraction, and randomization. My skills range widely from Python to analog electronics, as I have mostly worked on IoT projects from top to bottom. Currently, I am interested in creating AI algorithms that can sustain themselves in the long run, i.e., adaptive control in the human world.
+    I am a master's student at the School of Automation, China University of Geosciences, Wuhan, China. My core interests are cognitive computing, HRI/HCI, robotics, abstraction, and randomization.
+    My skills range widely from Python to analog electronics, as I have mostly worked on IoT projects from top to bottom. Currently, I am interested in creating AI algorithms that can sustain themselves in the long run, i.e., adaptive control in the human world.
     </td>
     <td><img src="./assets/about/DSC_3494a.jpg" alt="Photo" width="900"/> </td>
   </tr>
@@ -18,7 +19,7 @@ Welcome to my page.
 
 
 
-As a final year grad student, I have been researching on speech emotion recognition and trying to build a real-time end-to-end analyzer. Here is a demo:
+As a final year grad student, I have been researching on speech emotion recognition and trying to build a real-time end-to-end analyzer. My end goal is to create something that can adapt itself to different languages. Here is a demo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q02u39fkYAw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -66,34 +67,38 @@ _Sep 2017 - July 2018_
     - BS Electrical Engineering, _Oct 2010 - Jan 2015_
     - More like a nuclear boot camp, [PIEAS, Islamabad, Pakistan](https://en.wikipedia.org/wiki/Pakistan_Institute_of_Engineering_and_Applied_Sciences)
 
+
+
+### Certs:
+- English, [TOEFL, 2020](/assets/about/TOEFEL_Nov2020_Redacted.pdf)
+- Mandarin, [HSK-IV, 2018](/assets/about/HSK_Report_2018.jpg)
+
+
+### Awards:
+
+- Postgraduate Academic Research, [2nd @ School, 2020](/assets/about/Academic_2nd_Award.jpg)
+- Internet+, [Bronze @ China National, 2019](/assets/about/Internet_plus_award_2019.pdf)
+- Editor, [PIEAS Student Magazine, 2013-2014](http://old.pieas.edu.pk/magazine/dareecha/)
+
+
 * * *
 
 
 # [<span style="color:#cccccc">Work</span>](#work)
 
-* My 2+ years work experience and 10 major projects  (mostly IoT & Tanks) are listed in [my CV](/assets/about/CV_abdul_rehman.pdf).
-* I am currently proficient in Python, Cpp, JS, C#, and Java... in that order.
+* My **2+ years** work experience and 10 major projects  (mostly IoT & Tanks) are listed in [my CV](/assets/about/CV_abdul_rehman.pdf).
+* I am currently proficient in **Python, Cpp, JS, C#, and Java**... in that order.
 * See my freelance portfolio and reviews at [PPH](https://pph.me/tabahi), and my open source codes at [GitHub](https://github.com/tabahi).
 
 
 
-
-### Certs:
-* English, [TOEFL, 2020](/assets/about/TOEFEL_Nov2020_Redacted.pdf)
-* Mandarin, [HSK-IV, 2018](/assets/about/HSK_Report_2018.jpg)
-
-### Awards:
-* [Postgraduate Research, 2nd @ School, 2020](/assets/about/Academic_2nd_Award.jpg)
-* [Internet+, Bronze @ China National, 2019](/assets/about/Internet_plus_award_2019.pdf)
-* [Editor, PIEAS Student Magazine, 2013-2014](http://old.pieas.edu.pk/magazine/dareecha/)
-
 ### Memberships:
 
-* IEEE, IEEE-SMC, Chinese Association for Artificial Intelligence, Pakistan Engineering Commission, WWF-Pakistan
+* IEEE, IEEE-SMC, Chinese Association for Artificial Intelligence, Pakistan Engineering Commission
 
 ### Non-academic interests:
 
-* Archeology, cosmology, classical music, Time, rhythms and patterns in general.
+* Archeology, meteorology, cosmology, classical music, rhythms and patterns in general.
 * Literary: Realism, Dostoevsky, Non-fiction.
 
 
@@ -108,18 +113,10 @@ _Sep 2017 - July 2018_
 
 ## Links
 
-* [LinkedIn](https://www.linkedin.com/in/alabdulrehman/)
+* Profiles: [LinkedIn](https://www.linkedin.com/in/alabdulrehman/)
+, [ResearchGate](https://www.researchgate.net/profile/Abdul_Rehman196), [ORICID](https://orcid.org/0000-0003-2345-2256)
 
-* [ResearchGate](https://www.researchgate.net/profile/Abdul_Rehman196)
+*  Work: [GitHub Repository](https://github.com/tabahi),  [PeoplePerHour](https://pph.me/tabahi), [CV in PDF](/assets/about/CV_abdul_rehman.pdf)
 
-* [ORICID](https://orcid.org/0000-0003-2345-2256)
-
-* [CV in PDF](/assets/about/CV_abdul_rehman.pdf)
-
-* [PeoplePerHour](https://pph.me/tabahi)
-
-* [GitHub/codes](https://github.com/tabahi)
-
-* [Instagram](https://www.instagram.com/where.22/)
-
+* Personal: [Instagram](https://www.instagram.com/where.22/), [Flickr](https://tabahi.github.io/assets/flickr/index.html)
 
