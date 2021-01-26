@@ -65,7 +65,7 @@ _Sep 2017 - July 2018_
 
 - ### Bachelor
     - BS Electrical Engineering, _Oct 2010 - Jan 2015_
-    - More like a nuclear boot camp, [PIEAS, Islamabad, Pakistan](https://en.wikipedia.org/wiki/Pakistan_Institute_of_Engineering_and_Applied_Sciences)
+    - Nuclear boot camp, [PIEAS, Islamabad, Pakistan](https://en.wikipedia.org/wiki/Pakistan_Institute_of_Engineering_and_Applied_Sciences)
 
 
 
@@ -118,5 +118,5 @@ _Sep 2017 - July 2018_
 
 *  Work: [GitHub Repository](https://github.com/tabahi),  [PeoplePerHour](https://pph.me/tabahi), [CV in PDF](/assets/about/CV_abdul_rehman.pdf)
 
-* Personal: [Instagram](https://www.instagram.com/where.22/), [Flickr](https://tabahi.github.io/assets/flickr/index.html)
+* Personal: [Instagram](https://www.instagram.com/where.22/)
 
