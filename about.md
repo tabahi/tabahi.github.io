@@ -24,7 +24,7 @@ As a final year grad student, I have been researching on speech emotion recognit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q02u39fkYAw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+See the latest project here: [tabahi.github.io/WebSpeechAnalyzer/](https://tabahi.github.io/WebSpeechAnalyzer/)
 * * *
 
 # [<span style="color:#cccccc">Publications</span>](#publications)
