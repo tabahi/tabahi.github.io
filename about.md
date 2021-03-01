@@ -18,13 +18,13 @@ Welcome to my page.
 </table>
 
 
+Check out my latest project here: [tabahi.github.io/WebSpeechAnalyzer/](https://tabahi.github.io/WebSpeechAnalyzer/)
 
 As a final year grad student, I have been researching on speech emotion recognition and trying to build a real-time end-to-end analyzer. My end goal is to create something that can adapt itself to different languages. Here is a demo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q02u39fkYAw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Check out my latest project here: [tabahi.github.io/WebSpeechAnalyzer/](https://tabahi.github.io/WebSpeechAnalyzer/)
 * * *
 
 # [<span style="color:#cccccc">Publications</span>](#publications)
