@@ -10,8 +10,8 @@ Welcome to my page.
  <table>
   <tr>
     <td>
-    I am a master's student at the School of Automation, China University of Geosciences, Wuhan, China. My core interests are cognitive computing, HRI/HCI, robotics, abstraction, and randomization.
-    My skills range widely from Python to analog electronics, as I have mostly worked on IoT projects from top to bottom. Currently, I am interested in creating AI algorithms that can sustain themselves in the long run, i.e., adaptive control in the human world.
+    I am a master's student at the School of Automation, China University of Geosciences, Wuhan, China. My core interests are cognitive computing, robotics, abstraction, and randomization.
+    My skills range widely from Python to analog electronics, as I have mostly worked on IoT projects on all levels. Currently, I am interested in creating AI algorithms that can sustain themselves in the long run, i.e., adaptive control in the human world.
     </td>
     <td><img src="./assets/about/DSC_3494a.jpg" alt="Photo" width="900"/> </td>
   </tr>
@@ -113,7 +113,7 @@ _Sep 2017 - July 2018_
 * Profiles: [LinkedIn](https://www.linkedin.com/in/alabdulrehman/)
 , [ResearchGate](https://www.researchgate.net/profile/Abdul_Rehman196), [ORICID](https://orcid.org/0000-0003-2345-2256)
 
-*  Work: [GitHub Repository](https://github.com/tabahi),  [PeoplePerHour](https://pph.me/tabahi), [CV in PDF](/assets/about/CV_abdul_rehman.pdf)
+*  Work: [GitHub Repository](https://github.com/tabahi),  [PeoplePerHour](https://pph.me/tabahi)
 
 * Personal: [Instagram](https://www.instagram.com/where.22/)
 
