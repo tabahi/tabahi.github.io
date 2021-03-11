@@ -10,8 +10,8 @@ Welcome to my page.
  <table>
   <tr>
     <td>
-    I am a master's student at the School of Automation, China University of Geosciences, Wuhan, China. My core interests are cognitive computing, robotics, abstraction, and randomization.
-    My skills range widely from Python to analog electronics, as I have mostly worked on IoT projects on all levels. Currently, I am interested in creating AI algorithms that can sustain themselves in the long run, i.e., adaptive control in the human world.
+    I am a master's student at the School of Automation, China University of Geosciences, Wuhan, China. My core interests are speech processing, HCI, cognitive computing, robotics, and randomization.
+    My skills range widely from Python to analog electronics, as I have mostly worked on IoT projects on all levels.
     </td>
     <td><img src="./assets/about/DSC_3494a.jpg" alt="Photo" width="900"/> </td>
   </tr>
@@ -20,7 +20,7 @@ Welcome to my page.
 
 Check out my latest project here: [tabahi.github.io/WebSpeechAnalyzer/](https://tabahi.github.io/WebSpeechAnalyzer/)
 
-As a final year grad student, I have been researching on speech emotion recognition and trying to build a real-time end-to-end analyzer. My end goal is to create something that can adapt itself to different languages. Here is a demo:
+As a final year grad student, I have been researching on speech emotion recognition and trying to build a real-time end-to-end analyzer. My end goal is to create something that can adapt itself to different speakers. Here is a demo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q02u39fkYAw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
