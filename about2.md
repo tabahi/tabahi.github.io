@@ -3,47 +3,18 @@ layout: page
 title: Abdul Rehman
 ---
 
-# About: Abdul Rehman, 2 2
+# About: Abdul Rehman
 
 Welcome to my page.
 
- <table>
-  <tr>
-    <td>
-    I am a master's student at the School of Automation, China University of Geosciences, Wuhan, China. My core interests are speech processing, HCI, cognitive computing, robotics, and randomization.
-    My skills range widely from Python to analog electronics, as I have mostly worked on IoT projects on all levels.
-    </td>
-    <td><img src="./assets/about/DSC_3494a.jpg" alt="Photo" width="900"/> </td>
-  </tr>
-</table>
 
 
-Check out my latest project here: [tabahi.github.io/WebSpeechAnalyzer/](https://tabahi.github.io/WebSpeechAnalyzer/)
-
-As a final year grad student, I have been researching on speech emotion recognition and trying to build a real-time end-to-end analyzer. My end goal is to create something that can adapt itself to different speakers. Here is a demo:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q02u39fkYAw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-* * *
-
-# [<span style="color:#cccccc">Publications</span>](#publications)
-
-## Jorunal Articles
-
-* [Z. -T. Liu, A. Rehman, M. Wu, W. Cao and M. Hao, <span style="color:white">"Speech Emotion Recognition Based on Formant Characteristics Features Extraction and Phoneme Type Convergence"</span>, in Information Sciences, 2021, DOI: 10.1016/j.ins.2021.02.016.](https://www.sciencedirect.com/science/article/pii/S0020025521001584)
-
-* [Z. -T. Liu, A. Rehman, M. Wu, W. Cao and M. Hao, <span style="color:white">"Speech Personality Recognition Based on Annotation Classification Using Log-likelihood Distance and Extraction of Essential Audio Features,"</span> in IEEE Transactions on Multimedia, DOI: 10.1109/TMM.2020.3025108.](https://ieeexplore.ieee.org/document/9200766/)
-
-## Conferences (peer-reviewed)
-
-* [A. Rehman, Z. -T. Liu, D. -Y. Li and B. -H. Wu, <span style="color:white">"Cross-Corpus Speech Emotion Recognition Based on Hybrid Neural Networks"</span>, 2020 39th Chinese Control Conference (CCC), Shenyang, China, 2020, pp. 7464-7468, DOI: 10.23919/CCC50068.2020.9189368.](https://ieeexplore.ieee.org/document/9189368)
-
-* [A. Rehman, Z. -T. Liu, M. Wu, W. Cao and M. Hao, <span style="color:white">"Speech Emotion Recognition Based on PSO-SVR Using Personality Clusters"</span>, The 6th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII2019), Chengdu, China, 2019.](/assets/about/IWACIII-2019Speech_Emotion_Recognition_Based_on_PSO_SVR_Using_Personality_Clusters_after_review.pdf)
-
-* * *
 
 # [<span style="color:#cccccc">Education</span>](#education)
+- ### Phd
+    - NLP, AI for paralinguistics, _Nov 2021 - Nov 2025_
+    - Publications: [Offical Page](https://staffprofiles.bournemouth.ac.uk/display/arehman)
+
 
 - ### Masters
     - Control Science and Engineering, _Sep 2018 - July 2021_
@@ -104,8 +75,7 @@ _Sep 2017 - July 2018_
 
 # [<span style="color:#cccccc">Contact</span>](#contact)
 
-* Email: abdulrehman [*a*] ieee . org, alabdulrehman [*a*] hotmail . fr
-* Currently in [Wuhan](https://en.wikipedia.org/wiki/Wuhan) (UTC+8), Domicile in [Quetta](https://en.wikipedia.org/wiki/Quetta)
+* Email:  alabdulrehman [*a*] hotmail . fr
 
 
 ## Links
