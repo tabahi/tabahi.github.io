@@ -36,7 +36,7 @@ _Sep 2017 - July 2018_
 
 - ### Bachelor
     - BS Electrical Engineering, _Oct 2010 - Jan 2015_
-    - Nuclear boot camp, [PIEAS, Islamabad, Pakistan](https://en.wikipedia.org/wiki/Pakistan_Institute_of_Engineering_and_Applied_Sciences)
+    - [PIEAS, Islamabad, Pakistan](https://en.wikipedia.org/wiki/Pakistan_Institute_of_Engineering_and_Applied_Sciences)
 
 
 
@@ -49,7 +49,6 @@ _Sep 2017 - July 2018_
 
 - Postgraduate Academic Research, [2nd @ School, 2020](/assets/about/Academic_2nd_Award.jpg)
 - Internet+, [Bronze @ China National, 2019](/assets/about/Internet_plus_award_2019.pdf)
-- Editor, [PIEAS Student Magazine, 2013-2014](http://old.pieas.edu.pk/magazine/dareecha/)
 
 
 * * *
